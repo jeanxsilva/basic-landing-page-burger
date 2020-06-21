@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+
+*{
+   font-family: 'Rajdhani', sans-serif;
+}
+#burger-cover{
+   background: linear-gradient(0deg,rgb(235, 169, 48),#DC3545);
+}
+#menu{
+   background: linear-gradient(0deg,#DC3545,rgb(235, 169, 48));
+}
+.side-line{
+   border-right: 1px solid rgb(182, 176, 176);
+}
+.media-logo{
+   color:white;
+   font-size:30px;
+   transition: .2s;
+   -webkit-transition: .2s;
+   -moz-transition: .2s;
+}
+.media-logo:hover{
+   color: rgba(182, 176, 176);
+}
+.nav-item a{
+   color:white;
+}
+.nav-item a:hover{
+   background-color: rgba(58, 54, 54, 0.1);
+   color:white;
+}
