@@ -2,10 +2,10 @@ Projeto desenvolvido utilizando o framework Bootstrap + CSS e JavaScript (soment
 Layout simples e responsivo.
 
 ## Print 1
-![image](https://user-images.githubusercontent.com/60391387/156676981-f1158485-c475-4631-b7c6-6d655197d2b9.png)
+![image](https://user-images.githubusercontent.com/60391387/156677315-7d5f2c11-075b-4565-bd06-b8b819da746b.png)
 
 ## Print 2
-![image](https://user-images.githubusercontent.com/60391387/156677064-b52ddf69-1c2e-4c28-a956-5c540adc6f2e.png)
+![image](https://user-images.githubusercontent.com/60391387/156677360-f8d5840e-17b0-4259-93dd-faf9b58729e6.png)
 
 ## Print 3
-![image](https://user-images.githubusercontent.com/60391387/156677217-4b006b9a-8841-47b4-ade2-c3b90e65eca3.png)
+![image](https://user-images.githubusercontent.com/60391387/156677402-bd162077-153f-448b-ba1a-b4f5b7f0ca25.png)
